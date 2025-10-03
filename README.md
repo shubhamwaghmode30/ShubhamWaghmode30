@@ -107,11 +107,5 @@ Let’s build something impactful together.
 
 ---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShubhamWaghmode30&show_icons=true&theme=radical" alt="Shubham's GitHub Stats" />
-</div>
-
----
-
 > ⚡ **Fun Fact:**  
 > I believe the best projects are born from curiosity, collaboration, and the desire to make life simpler and better.
