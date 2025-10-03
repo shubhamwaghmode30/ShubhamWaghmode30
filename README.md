@@ -1,4 +1,4 @@
-# 👋 Hello, I’m Shubham Waghmode  
+# 👋 **Hello, I’m Shubham Waghmode** 
 *"Coding is my craft, learning is my journey, and projects are my portfolio."* 💡 
 
 I’m a **2nd Year Computer Science Student** at **Vishwakarma Institute of Technology, Pune** with a passion for turning ideas into real-world solutions.  
@@ -9,21 +9,21 @@ Currently mastering **C++ & Object-Oriented Programming** while developing an **
 
 ---
 
-## 🌟 My Mission
+## 🌟 **My Mission**
 **"Think. Build. Evolve."**  
 My aim is to merge innovation with purpose - to create projects that not only solve problems but also inspire others to explore technology.  
 Joining GDSC means I want to contribute my skills, collaborate with peers, and build projects that create real impact in our campus and beyond.
 
 ---
 
-## 🛠 Core Skills & Expertise
+## 🛠 **Core Skills & Expertise**
 | Languages                  | Web Development              | Tools & Frameworks           | Concepts                                                |
 |----------------------------|------------------------------|------------------------------|---------------------------------------------------------|
 | C, C++, Python, JavaScript | HTML, CSS, Bootstrap, jQuery | Git, GitHub, Power BI, Excel | OOP, Database Design, CLI Applications, OCR Integration |
 
 ---
 
-## 📂 Project Portfolio
+## 📂 **Project Portfolio**
 Here’s a curated selection of my projects that combine technical skill with real-world applications.
 
 ---
@@ -33,7 +33,7 @@ A modern, responsive website created with love for the GDSC community at VIT to 
 
 Designed to serve as a central hub for club information, events, and resources - making technology more accessible and engaging for students.
 Implemented intuitive navigation and clean UI, combining creativity with functionality to enhance user experience.
-Leveraged Bootstrap & jQuery for efficient development and a polished design that reflects the spirit of GDSC.
+Leveraged Bootstrap & jQuery for efficient development and a polished design that reflects the spirit of GDSC.  
 **Tech Stack:** HTML, CSS, Bootstrap, jQuery
 
 ---
@@ -42,7 +42,7 @@ Leveraged Bootstrap & jQuery for efficient development and a polished design tha
 "Managing money made simple with AI."
 
 An AI-powered tool that scans receipts using OCR and automatically classifies expenses with Llama Vision API.
-Real-life Impact: Helps students and professionals track spending effortlessly, gain insights into financial habits, and improve savings. Progressed to the Semi-Final Round at IIC Incubation, IIT Madras for its innovation.
+Real-life Impact: Helps students and professionals track spending effortlessly, gain insights into financial habits, and improve savings. Progressed to the Semi-Final Round at IIC Incubation, IIT Madras for its innovation.  
 **Tech Stack:** Python, OCR, Llama Vision, Data Visualization
 
 ---
@@ -59,7 +59,7 @@ A structured command-line database for student record management.
 
 Created a student record system using structures in C with features like adding, updating, and displaying records in a tabular format.
 Simulated the logic behind real-world database systems, showing how information can be stored and retrieved efficiently.
-Strengthened concepts of data structuring, memory management, and user interaction in command-line applications.
+Strengthened concepts of data structuring, memory management, and user interaction in command-line applications.  
 **Tech Stack:**  C Programming
 
 ---
@@ -78,7 +78,7 @@ A command-line tool to check the strength of passwords and suggest improvements.
 
 ---
 
-## 🌱 My Learning Journey
+## 🌱 **My Learning Journey**
 
 My journey in technology is like connecting the dots — starting from fundamentals, evolving through creativity, and building impactful real-world solutions.
 
@@ -94,12 +94,12 @@ Each step builds on the last, a continuous journey of learning, experimenting, a
 
 ---
 
-## 🚧 Currently Working On
+## 🚧 **Currently Working On**
 **Algo Trading System** : An intelligent trading platform that leverages algorithmic strategies and real-time analytics to empower smarter investment decisions. My aim is to merge finance with technology to build systems that enhance efficiency and transparency in trading.
 
 ---
 
-## 📫 Let’s Connect & Collaborate
+## 📫 **Let’s Connect & Collaborate**
 I’m open to collaboration, learning, and contributing to innovative projects.  
 Let’s build something impactful together.  
 
