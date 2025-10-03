@@ -54,7 +54,7 @@ A command-line productivity tool to add, view, and manage tasks efficiently.
 
 ---
 
-### **4. [Student Database CLI](https://github.com/ShubhamWaghmode30/Student-Database)**
+### **4. [Student Database CLI](https://github.com/ShubhamWaghmode30/Student-Database-CLI)**
 A structured command-line database for student record management.  
 
 Created a student record system using structures in C with features like adding, updating, and displaying records in a tabular format.
@@ -64,7 +64,7 @@ Strengthened concepts of data structuring, memory management, and user interacti
 
 ---
 
-### **5. [Customer Billing CLI](https://github.com/ShubhamWaghmode30/Customer-Billing-System)**
+### **5. [Customer Billing CLI](https://github.com/ShubhamWaghmode30/Customer-Billing-CLI)**
 A formatted tabular billing system for small businesses or shops.
 **Real-life Impact:** Enables quick and error-free billing processes without relying on complex billing software.  
 **Tech Stack:** C Programming.
