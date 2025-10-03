@@ -54,7 +54,7 @@ A command-line productivity tool to add, view, and manage tasks efficiently.
 
 ---
 
-### **4. [Student Database CLI](https://github.com/ShubhamWaghmode30/Student-Database-CLI)**
+### **4. [Student Database CLI](https://github.com/ShubhamWaghmode30/Student-Database)**
 A structured command-line database for student record management.  
 
 Created a student record system using structures in C with features like adding, updating, and displaying records in a tabular format.
