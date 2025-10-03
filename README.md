@@ -71,7 +71,7 @@ A formatted tabular billing system for small businesses or shops.
 
 ---
 
-### **6. [Password Strength Checker](https://github.com/ShubhamWaghmode30/Password-Checker)**
+### **6. [Password Strength Checker](https://github.com/ShubhamWaghmode30/Password-Strength-Checker)**
 A command-line tool to check the strength of passwords and suggest improvements.  
 **Real-life Impact:** Helps improve personal data security with simple yet effective password analysis.  
 **Tech Stack:** C Programming.
